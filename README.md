@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-menezesdev/)
 
 ![menezesdev GitHub stats](https://github-readme-stats.vercel.app/api?username=menezesdev&show_icons=true&theme=mtokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menezesdev)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias do meu dia dia 
