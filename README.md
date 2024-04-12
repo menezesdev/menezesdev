@@ -1,4 +1,4 @@
-### Olá! Muito prazer, eu sou o Gabriel Menezes🖐️ <br>Desenvolvedor Full-Stack, dedicado a tecnologia e liderança. </br> Com experiência em tecnologias, estratégias empresarial e Gestão de projetos. 
+### Olá! Muito prazer, eu sou o Gabriel Menezes🖐️, <br>desenvolvedor Full-Stack, dedicado a tecnologia e liderança. <br> Com experiência em tecnologias, estratégias empresarial e Gestão de projetos. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gaab.riielll/?next=%2F)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-menezesdev/)
