@@ -22,4 +22,4 @@
 <div style="display: inline-block"></br>
     <img align="center"alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/><br>
 
-### Desenvolvedor Full-Stack, dedicado a tecnologia e liderança. Com experiência em tecnologias e estratégias empresarial e Gestão de projetos. 
+### Desenvolvedor Full-Stack, dedicado a tecnologia e liderança. </br> Com experiência em tecnologias, estratégias empresarial e Gestão de projetos. 
